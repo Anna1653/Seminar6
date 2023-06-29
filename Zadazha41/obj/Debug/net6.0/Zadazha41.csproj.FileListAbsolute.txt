@@ -1,0 +1,15 @@
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\Zadazha41.csproj.AssemblyReference.cache
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\Zadazha41.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\Zadazha41.AssemblyInfoInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\Zadazha41.AssemblyInfo.cs
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\Zadazha41.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\bin\Debug\net6.0\Zadazha41.exe
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\bin\Debug\net6.0\Zadazha41.deps.json
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\bin\Debug\net6.0\Zadazha41.runtimeconfig.json
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\bin\Debug\net6.0\Zadazha41.dll
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\bin\Debug\net6.0\Zadazha41.pdb
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\Zadazha41.dll
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\refint\Zadazha41.dll
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\Zadazha41.pdb
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\Zadazha41.genruntimeconfig.cache
+D:\УЧЕБА\Языки программирования\Seminar6\Zadazha41\obj\Debug\net6.0\ref\Zadazha41.dll
